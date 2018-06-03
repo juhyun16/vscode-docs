@@ -127,7 +127,7 @@ You can show or hide views from within the main view and also reorder them by dr
 
 ### Activity Bar
 
-The **Activity Bar** on the left lets you quickly switch between Views. You can also reorder Views by dragging and dropping them on the **Activity Bar** or remove a View entirely (right click **Hide from Activity Bar**).
+The **Activity Bar** on the left lets you quickly switch between Views. You can also reorder Views by dragging and dropping them on the **Activity Bar** or remove a View entirely (right click **Hide Activity Bar**).
 
 ![activity bar context menu](images/userinterface/activity-bar-context-menu.png)
 
